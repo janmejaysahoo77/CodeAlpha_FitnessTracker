@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/baseline_add_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/addWorkoutFragment"
+        android:icon="@drawable/baseline_add_24"
+        android:title="Add Workout" />
+    <item
+        android:id="@+id/goalsFragment"
+        android:icon="@drawable/baseline_ac_unit_24"
+        android:title="Goals" />
+    <item
+        android:id="@+id/progressFragment"
+        android:icon="@drawable/baseline_add_road_24"
+        android:title="Progress" />
+</menu>
